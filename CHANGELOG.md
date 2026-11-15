@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.4 - 2026-11-15
+- Fixed WebRTC connection: phone no longer gets stuck in Attempts state. Added pairing instructions screen. Added connection status to mobile settings. Added Diagnostics section with connection count, upload count, last connected time, and activity log.
+
 ## v1.3 - 2026-11-15
 
 ## v1.2 - 2026-11-15
