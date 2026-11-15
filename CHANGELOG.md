@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.11 - 2026-11-15
+- Photo info panel with EXIF metadata and tags. Search bar with filename and tag search. Connection status LED in gallery. Photos now show non-destructive edits.
+
 ## v1.10 - 2026-11-15
 
 ## v1.9 - 2026-11-15
