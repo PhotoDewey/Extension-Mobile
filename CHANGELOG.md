@@ -4,7 +4,7 @@
 - Smart albums now open on the phone and show their photos.
 - The album list marks smart albums with their own icon.
 - Full screen on the phone shows a sharper copy of the photo, ready for zooming.
-- The phone can show a photos EXIF and IPTC metadata and its list of edits.
+- The phone can show a photo's EXIF and IPTC metadata and its list of edits.
 
 ## v1.19 - 2026-11-16
 - Faster, more reliable connection to the phone app.
