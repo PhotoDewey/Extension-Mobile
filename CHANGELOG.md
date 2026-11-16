@@ -1,5 +1,11 @@
 # Mobile - Changelog
 
+## v1.19 - 2026-11-16
+- Faster, more reliable connection to the phone app.
+- Thumbnails and photos load faster, straight from the library's thumbnail cache.
+- Photo details now show the title, description, place, file type and author correctly.
+- More reliable photo transfers to the phone.
+
 ## v1.18 - 2026-11-15
 
 ## v1.17 - 2026-11-15
