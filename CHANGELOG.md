@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.22 - 2026-11-16
+- Regenerating the pairing code now takes effect immediately. Photos uploaded from the phone no longer overwrite a file with the same name. Added a user manual.
+
 ## v1.21 - 2026-11-16
 - The photo on screen is sent before prefetched photos, so swiping in full screen starts loading at once.
 - Downloads the phone no longer needs are stopped.
