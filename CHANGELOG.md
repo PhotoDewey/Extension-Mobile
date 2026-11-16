@@ -1,5 +1,11 @@
 # Mobile - Changelog
 
+## v1.21 - 2026-11-16
+- The photo on screen is sent before prefetched photos, so swiping in full screen starts loading at once.
+- Downloads the phone no longer needs are stopped.
+- The phone shows when your PC is creating the image and how fast the photo arrives.
+- The phone notices a lost connection within seconds and reconnects.
+
 ## v1.20 - 2026-11-16
 - Smart albums now open on the phone and show their photos.
 - The album list marks smart albums with their own icon.
