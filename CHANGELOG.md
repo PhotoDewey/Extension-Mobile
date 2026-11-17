@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.27 - 2026-11-17
+- Change photos from your phone: add and remove tags, set stars, flag for deletion, rotate, Auto Optimize and add to an album, for one photo or a selection, and undo the phone's last change. Needs PhotoDewey with plug-in API 1.1.
+
 ## v1.26 - 2026-11-17
 - The phone's photo info shows exposure values as you would read them (3.8 mm, f/2.2, 1/17 s).
 
