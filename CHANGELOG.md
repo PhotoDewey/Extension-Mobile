@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.24 - 2026-11-17
+- Thumbnails on the phone now update when a photo is edited on the PC.
+
 ## v1.23 - 2026-11-17
 - Phone and PC now prove to each other that they know the pairing code before anything is shared.
 - Add several photos at once from the phone, choose the folder and add tags.
