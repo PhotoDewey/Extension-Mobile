@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.26 - 2026-11-17
+- The phone's photo info shows exposure values as you would read them (3.8 mm, f/2.2, 1/17 s).
+
 ## v1.25 - 2026-11-17
 - Folders on the phone are shown as a tree, as on the PC, with Newly Imported at the top.
 - Make new folders from the phone.
