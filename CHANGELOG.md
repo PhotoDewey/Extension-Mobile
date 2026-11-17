@@ -1,5 +1,10 @@
 # Mobile - Changelog
 
+## v1.25 - 2026-11-17
+- Folders on the phone are shown as a tree, as on the PC, with Newly Imported at the top.
+- Make new folders from the phone.
+- The + button shows only in Folders and in an open folder, and uploads into the open folder.
+
 ## v1.24 - 2026-11-17
 - Thumbnails on the phone now update when a photo is edited on the PC.
 
