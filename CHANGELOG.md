@@ -1,5 +1,13 @@
 # Mobile - Changelog
 
+## v1.23 - 2026-11-17
+- Phone and PC now prove to each other that they know the pairing code before anything is shared.
+- Add several photos at once from the phone, choose the folder and add tags.
+- Photos from the phone get their date, camera and place like imported photos, and show on the PC at once.
+- On Android, share photos to PhotoDewey from the gallery's Share menu.
+- Uploads over slow connections no longer fail, and only supported file types are taken.
+- After updating, restart PhotoDewey on the PC.
+
 ## v1.22 - 2026-11-16
 - Regenerating the pairing code now takes effect immediately. Photos uploaded from the phone no longer overwrite a file with the same name. Added a user manual.
 
