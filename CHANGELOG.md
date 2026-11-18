@@ -1,5 +1,9 @@
 # Mobile - Changelog
 
+## v1.28 - 2026-11-18
+- The phone can now change exposure and contrast, restore faded colours and crop photos.
+- In the phone's gallery, the new toolbar applies these to several photos at once.
+
 ## v1.27 - 2026-11-17
 - Change photos from your phone: add and remove tags, set stars, flag for deletion, rotate, Auto Optimize and add to an album, for one photo or a selection, and undo the phone's last change. Needs PhotoDewey with plug-in API 1.1.
 
