@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.29 - 2026-11-18
+- The phone app can show statistics for your library: photos, size, folders, albums, tags, people and more. The phone can switch PhotoDewey on the PC to another of your libraries. The phone stays connected when the PC switches library.
+
 ## v1.28 - 2026-11-18
 - The phone can now change exposure and contrast, restore faded colours and crop photos.
 - In the phone's gallery, the new toolbar applies these to several photos at once.
