@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.30 - 2026-11-18
+- Photos saved or downloaded on the phone are the photo as PhotoDewey shows it: with your edits, at full size, keeping the capture date.
+
 ## v1.29 - 2026-11-18
 - The phone app can show statistics for your library: photos, size, folders, albums, tags, people and more. The phone can switch PhotoDewey on the PC to another of your libraries. The phone stays connected when the PC switches library.
 
