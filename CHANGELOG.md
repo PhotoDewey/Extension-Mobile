@@ -1,5 +1,10 @@
 # Mobile - Changelog
 
+## v1.31 - 2026-11-19
+- Recent photos for the phone app's Photos tab, the last imported first.
+- Photo lists carry stars, Reject and edited, so the phone app's grid can show them.
+- The phone app's tags page offers your recent tags.
+
 ## v1.30 - 2026-11-18
 - Photos saved or downloaded on the phone are the photo as PhotoDewey shows it: with your edits, at full size, keeping the capture date.
 
