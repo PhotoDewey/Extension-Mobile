@@ -1,5 +1,8 @@
 # Mobile - Changelog
 
+## v1.32 - 2026-11-19
+- Photos kept only in cloud storage no longer show on the phone, where they could not be opened.
+
 ## v1.31 - 2026-11-19
 - Recent photos for the phone app's Photos tab, the last imported first.
 - Photo lists carry stars, Reject and edited, so the phone app's grid can show them.
